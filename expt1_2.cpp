@@ -18,7 +18,7 @@ int main()
 	s1.b=3;
 	strcpy(s1.c,"ABCD");
 
-	u1.a=5;
+	u1.a=10;
 	u1.b=6;
 	strcpy(u1.c,"PQRS");
 
