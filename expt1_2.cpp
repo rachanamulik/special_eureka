@@ -18,8 +18,8 @@ int main()
 	s1.b=2;
 	strcpy(s1.c,"ABCD");
 
-	u1.a=5;
-	u1.b=6;
+	u1.a=6;
+	u1.b=5;
 	strcpy(u1.c,"PQRS");
 
 	printf("Structure output:\na=%d\nb=%f\nc=%s",s1.a,s1.b,s1.c);
