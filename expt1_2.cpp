@@ -14,11 +14,11 @@ union B
 }u1;
 int main()
 {
-	s1.a=1;
-	s1.b=2;
+	s1.a=2;
+	s1.b=3;
 	strcpy(s1.c,"ABCD");
 
-	u1.a=5;
+	u1.a=10;
 	u1.b=6;
 	strcpy(u1.c,"PQRS");
 
