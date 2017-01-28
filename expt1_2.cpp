@@ -14,8 +14,8 @@ union B
 }u1;
 int main()
 {
-	s1.a=1;
-	s1.b=2;
+	s1.a=2;
+	s1.b=3;
 	strcpy(s1.c,"ABCD");
 
 	u1.a=5;
