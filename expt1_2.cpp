@@ -6,14 +6,12 @@ struct A
 	float b;
 	char c[5];
 }s1;
-
 union B
 {
 	int a;
 	float b;
 	char c[5];
 }u1;
-
 int main()
 {
 	s1.a=1;
