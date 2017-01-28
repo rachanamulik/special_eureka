@@ -12,6 +12,18 @@ union B
 	float b;
 	char c[5];
 }u1;
+union C
+{
+	int a;
+	float b;
+	char c[5];
+}u1;;
+union D
+{
+	int a;
+	float b;
+	char c[5];
+}u1;
 int main()
 {
 	s1.a=1;
